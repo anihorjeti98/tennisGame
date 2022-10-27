@@ -1,0 +1,2 @@
+# tennisGame
+This simple game lets the user juggle tennis balls. The user should keep them in the air to prevent them from falling below the bottom of the screen. I used pygame to display a tennis ball image and a loop to redraw the screen many times per second to create the effect of ball movement. I also added a method to register the location of mouse clicks on screen and check for overlapping coordinates with those of the ball to keep it in the air and change its direction randomly as it bounces off the edges. Game ends when the ball touches the bottom of the screen.
